@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @eduglez03 
-- 👀 I’m interested in software development 💻 
+- 👋 Hi, I’m Eduardo González Gutiérrez
+- 📍 I’m from Tenerife, Spain 
+- 💻 I'm a Computer Engineering student 
+- 👀 I’m interested in software development 
 - 🌱 I’m currently learning C++ 
-- 💞️ I’m looking to collaborate on app's development 
-- 📫 find me on Instagram: eduglez_03
+- 📫 find me on Instagram as @eduglez_03
+
 
 <!---
 eduglez03/eduglez03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
