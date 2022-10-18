@@ -3,4 +3,4 @@
 - 💻 I'm a Computer Engineering student 
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning C++ 
-- 📫 find me on Instagram as @eduglez_03
+- 📫 Find me on Instagram as @eduglez_03
