@@ -24,7 +24,7 @@
 
 ## 👨‍💻 Languages 
 <p align="center">
-<code><img width= src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></code>
+<code><img width="40" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></code>
 <code><img width="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"></code>
 <code><img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 <code><img width="40" src="https://eirikpre.gallerycdn.vsassets.io/extensions/eirikpre/systemverilog/0.11.3/1612434073897/Microsoft.VisualStudio.Services.Icons.Default"></code>
