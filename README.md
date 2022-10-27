@@ -1,6 +1,6 @@
 ### Hi there, I´m Eduardo González👋
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eduglez0310&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=feichay10&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=github_dark&hide_border=true&username=feichay10&hide=Makefilelayout=compact" />
@@ -38,5 +38,3 @@
 <a href="https://www.linkedin.com/in/cheuk-kelly-ng-pante-293967158/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin"></a>
 <a href="https://www.instagram.com/chakii10_/?hl=es"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/cheuk.kelly"><img src="https://img.shields.io/badge/Facebook-blue?style=flat&logo=Facebook&logoColor=white" alt="Facebook"></a></p>
-
-
