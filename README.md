@@ -20,7 +20,6 @@
 <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></code>  
 <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"></code> 
 <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Adobe_Photoshop_Lightroom_Classic_CC_icon.svg/1200px-Adobe_Photoshop_Lightroom_Classic_CC_icon.svg.png"></code>
-<code><img width="40" src="https://www.gns3.com/assets/custom/gns3/images/logo-colour.png"></code></p>
 
 ## 👨‍💻 Languages 
 <p align="center">
