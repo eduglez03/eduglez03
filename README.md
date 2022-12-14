@@ -34,8 +34,7 @@
 <p align="center">
 <a href="https://github.com/eduglez03"><img src="https://img.shields.io/badge/GitHub-%23171515.svg?style=flat&logo=Github&logoColor=white" alt="GitHub"></a>
 <a href="https://twitter.com/eduglez_03"><img src="https://img.shields.io/badge/Twitter-%23FFFFFF.svg?style=flat&logo=Twitter&logoColor=1DA1F2" alt="Twitter URL"></a>
-<a href="https://www.linkedin.com/in/cheuk-kelly-ng-pante-293967158/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin"></a>
 <a href="https://www.instagram.com/eduglez_03/?hl=es"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/cheuk.kelly"><img src="https://img.shields.io/badge/Facebook-blue?style=flat&logo=Facebook&logoColor=white" alt="Facebook"></a></p>
+
 
 
