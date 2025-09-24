@@ -1,7 +1,6 @@
 # 👋 ¡Hola! Soy Eduardo González Gutiérrez  
 
-🎓 Ingeniero Informático por la Universidad de La Laguna 
-👨🏻‍💻 Estudiante del máster en Inteligencia Artificial por la Universidad Alfonso X el sabio
+🎓 Ingeniero Informático por la Universidad de La Laguna | 👨🏻‍💻 Estudiante del máster en Inteligencia Artificial por la Universidad Alfonso X el sabio
 
 Soy un apasionado de la **inteligencia artificial**, la **ciencia de datos** y el **desarrollo de software**.  
 Me motiva transformar datos en conocimiento útil, diseñar soluciones escalables y participar en proyectos innovadores que generen impacto real.  
@@ -10,7 +9,8 @@ Me motiva transformar datos en conocimiento útil, diseñar soluciones escalable
 
 ## 🚀 Sobre mí  
 - 🔍 Experiencia en **Power BI**, **ETL pipelines** y **SQL** optimizado.  
-- 🐍 Desarrollo en **Python**, **Java**, **SQL** y **C++**.  
+- 🐍 Desarrollo en **Python**, **Java**, **SQL** y **C++**.
+- 🧠 Experiencia en desarrollo de proyectos de **Machine Learning** con **TensorFlow** y **Keras**
 - ⚙️ Conocimiento en **arquitecturas de software**, **patrones de diseño** y **metodologías ágiles**.  
 - 📈 Desarrollo de **Power Apps** y automatización con **Power Automate**.  
 - 🌍 Experiencia en liderazgo de proyectos y eventos tecnológicos (Cesinf, JTI, First Lego League).  
@@ -19,7 +19,7 @@ Me motiva transformar datos en conocimiento útil, diseñar soluciones escalable
 
 ## 🛠️ Tecnologías y herramientas  
 - **Lenguajes:** Python, Java, SQL, R, C++, Ruby, Matlab  
-- **Data & BI:** Power BI, Power Apps, Power Automate, TensorFlow  
+- **Data, BI & IA:** Power BI, Power Apps, Power Automate, TensorFlow  
 - **Dev Tools:** Git, GitHub, Jenkins, SonarCloud, IntelliJ, Figma  
 - **Otros:** Modelado UML, OOP, TDD, Integración Continua  
 
