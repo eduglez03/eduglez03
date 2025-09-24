@@ -2,11 +2,12 @@
 
 🎓 Ingeniero Informático por la Universidad de La Laguna<br>👨🏻‍💻 Estudiante del máster en Inteligencia Artificial por la Universidad Alfonso X el sabio
 
-Soy un apasionado de la **inteligencia artificial**, la **ciencia de datos** y el **desarrollo de software**. Me motiva transformar datos en conocimiento útil, diseñar soluciones escalables y participar en proyectos innovadores que generen impacto real.  
-
 ---
 
 ## 🚀 Sobre mí  
+
+Soy un apasionado de la **inteligencia artificial**, la **ciencia de datos** y el **desarrollo de software**. Me motiva transformar datos en conocimiento útil, diseñar soluciones escalables y participar en proyectos innovadores que generen impacto real.  
+
 - 🔍 Experiencia en **Power BI**, **ETL pipelines** y **SQL** optimizado.  
 - 🐍 Desarrollo en **Python**, **Java**, **SQL** y **C++**.
 - 🧠 Experiencia en desarrollo de proyectos de **Machine Learning** con **TensorFlow** y **Keras**
