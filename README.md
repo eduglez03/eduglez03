@@ -38,7 +38,7 @@ Me motiva transformar datos en conocimiento útil, diseñar soluciones escalable
 ## 📫 Conecta conmigo  
 <p align="left">
   <a href="mailto:eglezgut24@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/eduardo-gonzalez-gutierrez" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/eduardo-gonzalez-gutierrez](https://www.linkedin.com/in/eduardo-gonz%C3%A1lez-guti%C3%A9rrez/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/eduglez03" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>  
 
