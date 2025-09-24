@@ -26,9 +26,9 @@ Me motiva transformar datos en conocimiento útil, diseñar soluciones escalable
 ---
 
 ## 📂 Proyectos Destacados  
-🔹 [Optimización de cuadros de mando en Power BI](#)  
-🔹 [Sistema de detección de anomalías con Python + SQL](#)  
-🔹 [Power App para gestión de cobros de parking](#)  
+🔹 [Football Dashboard Project: Aplicación de patrones de diseño e integración con Vista-Controlador](https://github.com/eduglez03/Football-Dashboard-Project.git)  
+🔹 [Spotify API para creación de playlist personalizadas](https://github.com/eduglez03/SpotifyAPI.git)
+🔹 [Football Match Updater: Aplicación del patrón observador](https://github.com/eduglez03/FootballMatchUpdater.git)  
 🔹 [Trabajo de final de grado: CNN y problema de la generalización para el diagnóstico del glaucoma](https://github.com/eduglez03/Final-Degree-Project.git)  
 
 *(Próximamente subiré más proyectos a este repositorio 🚀)*  
@@ -39,7 +39,7 @@ Me motiva transformar datos en conocimiento útil, diseñar soluciones escalable
 <p align="left">
   <a href="mailto:eglezgut24@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/eduardo-gonzalez-gutierrez" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/eglezgut24" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/eduglez03" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>  
 
 ---
