@@ -1,3 +1,47 @@
-# Hi there, I´m Eduardo González👋
-- 🏛️ I’m currently studying Computer Engineering on Universidad de La Laguna 
-- 🌱 I’m currently improving my knowledge in C++
+# 👋 ¡Hola! Soy Eduardo González Gutiérrez  
+
+🎓 Ingeniero Informático por la Universidad de La Laguna 
+👨🏻‍💻 Estudiante del máster en Inteligencia Artificial por la Universidad Alfonso X el sabio
+
+Soy un apasionado de la **inteligencia artificial**, la **ciencia de datos** y el **desarrollo de software**.  
+Me motiva transformar datos en conocimiento útil, diseñar soluciones escalables y participar en proyectos innovadores que generen impacto real.  
+
+---
+
+## 🚀 Sobre mí  
+- 🔍 Experiencia en **Power BI**, **ETL pipelines** y **SQL** optimizado.  
+- 🐍 Desarrollo en **Python**, **Java**, **SQL** y **C++**.  
+- ⚙️ Conocimiento en **arquitecturas de software**, **patrones de diseño** y **metodologías ágiles**.  
+- 📈 Desarrollo de **Power Apps** y automatización con **Power Automate**.  
+- 🌍 Experiencia en liderazgo de proyectos y eventos tecnológicos (Cesinf, JTI, First Lego League).  
+
+---
+
+## 🛠️ Tecnologías y herramientas  
+- **Lenguajes:** Python, Java, SQL, R, C++, Ruby, Matlab  
+- **Data & BI:** Power BI, Power Apps, Power Automate, TensorFlow  
+- **Dev Tools:** Git, GitHub, Jenkins, SonarCloud, IntelliJ, Figma  
+- **Otros:** Modelado UML, OOP, TDD, Integración Continua  
+
+---
+
+## 📂 Proyectos Destacados  
+🔹 [Optimización de cuadros de mando en Power BI](#)  
+🔹 [Sistema de detección de anomalías con Python + SQL](#)  
+🔹 [Power App para gestión de cobros de parking](#)  
+
+*(Próximamente subiré más proyectos a este repositorio 🚀)*  
+
+---
+
+## 📫 Conecta conmigo  
+<p align="left">
+  <a href="mailto:eglezgut24@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/eduardo-gonzalez-gutierrez" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/eglezgut24" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>  
+
+---
+
+⭐️ *Siempre abierto a nuevas oportunidades de colaboración y aprendizaje.*  
+
