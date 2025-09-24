@@ -27,8 +27,7 @@ Me motiva transformar datos en conocimiento útil, diseñar soluciones escalable
 
 ## 📂 Proyectos Destacados  
 🔹 [Football Dashboard Project: Aplicación de patrones de diseño e integración con Vista-Controlador](https://github.com/eduglez03/Football-Dashboard-Project.git)  
-🔹 [Spotify API para creación de playlist personalizadas](https://github.com/eduglez03/SpotifyAPI.git)
-
+🔹 [Spotify API para creación de playlist personalizadas](https://github.com/eduglez03/SpotifyAPI.git)<br>
 🔹 [Football Match Updater: Aplicación del patrón observador](https://github.com/eduglez03/FootballMatchUpdater.git)  
 🔹 [Trabajo de final de grado: CNN y problema de la generalización para el diagnóstico del glaucoma](https://github.com/eduglez03/Final-Degree-Project.git)  
 
