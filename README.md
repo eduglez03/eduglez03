@@ -29,6 +29,7 @@ Me motiva transformar datos en conocimiento útil, diseñar soluciones escalable
 🔹 [Optimización de cuadros de mando en Power BI](#)  
 🔹 [Sistema de detección de anomalías con Python + SQL](#)  
 🔹 [Power App para gestión de cobros de parking](#)  
+🔹 [Trabajo de final de grado: CNN y problema de la generalización para el diagnóstico del glaucoma](https://github.com/eduglez03/Final-Degree-Project.git)  
 
 *(Próximamente subiré más proyectos a este repositorio 🚀)*  
 
